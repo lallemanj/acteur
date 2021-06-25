@@ -1,2 +1,4 @@
-package ehb.festival.acteur.dao;public interface ActeurDAO {
+package ehb.festival.acteur.dao;
+
+public interface ActeurDAO {
 }
